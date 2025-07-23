@@ -51,5 +51,6 @@ Crop health tips and seasonal care reminders
 Farmer feedback integration for treatment validation
 
 ## Credits
-Ananya D R - Machine Learning model development and integration
+Ananya D R - Machine Learning model development and integration  
+
 Sanal Sajan E, Roslina Manue, Aditya R K - App Development,Firebase and Cloudinary integration
