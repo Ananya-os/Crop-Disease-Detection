@@ -41,7 +41,7 @@ Each disease prediction is paired with a curated treatment guide which may inclu
 - Preventive measures
 - Agronomic best practices
 
-##📈 Future Improvements
+## 📈 Future Improvements
 Offline detection using TensorFlow Lite
 
 Multilingual support for wider regional use
@@ -50,6 +50,6 @@ Crop health tips and seasonal care reminders
 
 Farmer feedback integration for treatment validation
 
-##Credits
+## Credits
 Ananya D R - Machine Learning model development and integration
 Sanal Sajan E, Roslina Manue, Aditya R K - App Development,Firebase and Cloudinary integration
