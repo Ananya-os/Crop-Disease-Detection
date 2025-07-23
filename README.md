@@ -1,6 +1,6 @@
 # 🌾 Crop Disease Detection App
 
-A mobile application developed using **Flutter** that enables users, especially farmers, to detect crop diseases by simply capturing or uploading an image of a crop leaf. The app uses a powerful **EfficientNet-B0** deep learning model with **TensorFlow** to identify diseases, and provides **relevant treatment suggestions** based on the detected disease. All images are securely stored using **Firebase** and **Cloudinary**, ensuring scalability and real-time access.
+A mobile application developed using **Flutter** that enables users, especially farmers, to detect crop diseases by simply capturing or uploading an image of a crop leaf(tomato and corn). The app uses a powerful **EfficientNet-B0** deep learning model with **TensorFlow** to identify diseases, and provides **relevant treatment suggestions** based on the detected disease. All images are securely stored using **Firebase** and **Cloudinary**, ensuring scalability and real-time access.
 
 ## 🚀 Features
 
